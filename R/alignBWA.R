@@ -1,3 +1,4 @@
+## @knitr alignBWA
 #' Simple subread aligner 
 #'
 #' This is a simpler subread aligner that runs of single fastq files rather than individual lane fastqs
